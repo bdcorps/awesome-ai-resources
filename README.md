@@ -6,8 +6,12 @@ A curated list of resources to get started with AI development for developers
 - Langchain
 
 ## Databases
-- Chroma
-- Pinecone
+- Pinecone, a fully managed vector database
+- Weaviate, an open-source vector search engine
+- Redis as a vector database
+- Qdrant, a vector search engine
+- Milvus, a vector database built for scalable similarity search
+- Chroma, an open-source embeddings store
 
 ## Image Generation
 ### Fine Tuning
