@@ -18,6 +18,8 @@ A curated list of resources to get started with AI development for developers
 - [Leap AI](https://www.tryleap.ai/)
 - https://dreamlook.ai
 
+https://www.unstructured.io/
+
 ## Tools
 
 ## Tutorials
